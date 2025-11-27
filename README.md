@@ -9,14 +9,27 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
-<tr><td>1</td><td>铁路列车手势分类数据集3852张5类别.7z</td><td><a href="https://download.csdn.net/download/FL1623863129/89755907">点我下载</a></td></tr>
-<tr><td>2</td><td>智慧交通铁路工人工服安全帽检测数据集VOC+YOLO格式3065张3类别.7z</td><td><a href="https://download.csdn.net/download/FL1623863129/89755900">点我下载</a></td></tr>
-<tr><td>3</td><td>智慧交通铁路人员危险行为躺站坐检测数据集VOC+YOLO格式3766张4类别.7z</td><td><a href="https://download.csdn.net/download/FL1623863129/89755739">点我下载</a></td></tr>
-<tr><td>4</td><td>智慧交通铁轨裂缝检测数据集VOC+YOLO格式4类别.7z</td><td><a href="https://download.csdn.net/download/FL1623863129/89755275">点我下载</a></td></tr>
-<tr><td>5</td><td>智慧交通铁路异物入侵检测数据集VOC+YOLO格式802张7类别.7z</td><td><a href="https://download.csdn.net/download/FL1623863129/89755265">点我下载</a></td></tr>
-<tr><td>6</td><td>高铁受电弓检测数据集VOC+YOLO格式1245张2类别.7z</td><td><a href="https://download.csdn.net/download/FL1623863129/89740042">点我下载</a></td></tr>
-<tr><td>7</td><td>铁轨缺陷检测数据集VOC+YOLO格式4020张4类别.7z</td><td><a href="https://download.csdn.net/download/FL1623863129/89655663">点我下载</a></td></tr>
-<tr><td>8</td><td>手扶电梯地铁电梯缺陷检测数据集VOC+YOLO格式67张2类别.7z</td><td><a href="https://download.csdn.net/download/FL1623863129/89301571">点我下载</a></td></tr>
-<tr><td>9</td><td>高质量铁路轨道缺陷检测数据集1050张6类别.7z</td><td><a href="https://download.csdn.net/download/FL1623863129/89003908">点我下载</a></td></tr>
+<tr><td>智慧铁路轨道地面箱体电线分割数据集labelme格式534张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xbQ==">下载</a></td></tr>
+<tr><td>智慧交通地铁闯闸机翻越闸机地铁逃票检测数据集VOC+YOLO格式125张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlZpqbA==">下载</a></td></tr>
+<tr><td>智慧铁路巡检隧道渗水地铁隧道漏水检测数据集VOC+YOLO格式2575张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk55pZg==">下载</a></td></tr>
+<tr><td>无人机视角铁路障碍物检测数据集VOC+YOLO格式1913张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5dvaQ==">下载</a></td></tr>
+<tr><td>无人机视角轨道巡检火车铁轨轨道缺陷检测数据集VOC+YOLO格式1876张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpZvbA==">下载</a></td></tr>
+<tr><td>智慧交通铁轨铁路站台人行道分割数据集labelme格式775张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmZ9uag==">下载</a></td></tr>
+<tr><td>地铁车辆维修车间设施设备检测数据集VOC+YOLO格式1928张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5saQ==">下载</a></td></tr>
+<tr><td>智慧交通-铁路线路维护植被入侵识别分割数据集labelme格式1341张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1vaQ==">下载</a></td></tr>
+<tr><td>智慧交通-铁路输电线路异物检测数据集VOC+YOLO格式14615张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJptZg==">下载</a></td></tr>
+<tr><td>电力场景输电线高压铁塔检测数据集VOC+YOLO格式1023张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52clpxx">下载</a></td></tr>
+<tr><td>铁轨轨道配件检测数据集VOC+YOLO格式2905张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5yXlJ1y">下载</a></td></tr>
+<tr><td>[数据集汇总]智慧交通-铁路相关数据集汇总</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142282454">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]智慧交通铁路人员危险行为躺站坐检测数据集VOC+YOLO格式3766张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142281361">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]智慧交通铁轨裂缝检测数据集VOC+YOLO格式4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142280337">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]智慧交通铁路异物入侵检测数据集VOC+YOLO格式802张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142280171">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>高铁受电弓检测数据集VOC+YOLO格式1245张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5hsag==">下载</a></td></tr>
+<tr><td>[数据集][目标检测]铁轨缺陷检测数据集VOC+YOLO格式4020张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141368870">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]手扶电梯地铁电梯缺陷检测数据集VOC+YOLO格式67张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138783556">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]高质量铁路轨道缺陷检测数据集VOC+YOLO格式1050张6类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136904126">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>无人机视角铁路工人工服安全帽检测数据集VOC+YOLO格式3065张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxqZA==">下载</a></td></tr>
+<tr><td>铁路列车手势分类数据集3852张5类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/142282367">详情</a></td><td><a href="info.md">下载</a></td></tr>
+
 </tbody>
 </table>
