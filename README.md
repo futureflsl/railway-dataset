@@ -9,6 +9,7 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通铁路巡检异常检测缺陷检测铁路设备检测数据集VOC+YOLO格式1695张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxrZQ==">下载</a></td></tr>
 <tr><td>智慧铁路轨道地面箱体电线分割数据集labelme格式534张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xbQ==">下载</a></td></tr>
 <tr><td>智慧交通地铁闯闸机翻越闸机地铁逃票检测数据集VOC+YOLO格式125张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlZpqbA==">下载</a></td></tr>
 <tr><td>智慧铁路巡检隧道渗水地铁隧道漏水检测数据集VOC+YOLO格式2575张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk55pZg==">下载</a></td></tr>
