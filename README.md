@@ -9,6 +9,9 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧铁路高铁受电弓电线悬臂识别分割数据集labelme格式687张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakpxpZQ==">下载</a></td></tr>
+<tr><td>智慧铁路高铁受电弓触点支撑杆检测数据集VOC+YOLO格式1836张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakptybQ==">下载</a></td></tr>
+<tr><td>智慧铁路高铁受电弓及其接触部件检测数据集VOC+YOLO格式443张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakptybA==">下载</a></td></tr>
 <tr><td>无人机视角铁路巡检铁轨异物检测数据集VOC+YOLO格式1100张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpdyZw==">下载</a></td></tr>
 <tr><td>智慧交通铁路巡检异常检测缺陷检测铁路设备检测数据集VOC+YOLO格式1695张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxrZQ==">下载</a></td></tr>
 <tr><td>智慧铁路轨道地面箱体电线分割数据集labelme格式534张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xbQ==">下载</a></td></tr>
