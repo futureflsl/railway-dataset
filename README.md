@@ -9,6 +9,7 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧铁路受电弓触角缺陷受电弓状态受电弓故障检测数据集VOC+YOLO格式1048张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamptqaA==">下载</a></td></tr>
 <tr><td>铁轨轨道安全障碍物检测数据集VOC+YOLO格式620张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ9wZA==">下载</a></td></tr>
 <tr><td>智慧铁路轨道铁轨异物检测数据集VOC+YOLO格式552张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJpqag==">下载</a></td></tr>
 <tr><td>地铁内遗失物遗留物检测数据集VOC+YOLO格式700张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxyaQ==">下载</a></td></tr>
